@@ -23,7 +23,7 @@
     "core-js": "^3.6.5",
     "finalhandler": "^1.1.2",
     "mdn-polyfills": "^5.20.0",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.32",
     "postcss-css-variables": "^0.17.0",
     "postcss-flexbugs-fixes": "^4.2.1",
     "postcss-import": "^12.0.1",
@@ -31,7 +31,7 @@
     "regenerator-runtime": "^0.13.7",
     "rollup": "^2.26.4",
     "rollup-plugin-terser": "^7.0.2",
-    "serve-static": "^1.14.1",
+    "serve-static": "^1.16.0",
     "xxhashjs": "^0.2.2"
   }
 }
